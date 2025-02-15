@@ -1,0 +1,1 @@
+# deep_research_to_LaTex_report
