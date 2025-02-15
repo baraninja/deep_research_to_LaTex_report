@@ -44,4 +44,4 @@ Detta projekt är licensierat under MIT-licensen. Se `LICENSE`-filen för mer in
 
 ---
 
-*Observera: ChatGPT Deep Research är en ny funktion från OpenAI som möjliggör automatiserad, flerstegs forskning på internet för komplexa uppgifter. Den är för närvarande tillgänglig för Pro-prenumeranter och kan generera detaljerade rapporter genom att analysera och syntetisera information från olika onlinekällor.* citeturn0search0 
+*Observera: ChatGPT Deep Research är en ny funktion från OpenAI som möjliggör automatiserad, flerstegs forskning på internet för komplexa uppgifter. Den är för närvarande tillgänglig för Pro-prenumeranter och kan generera detaljerade rapporter genom att analysera och syntetisera information från olika onlinekällor.*
